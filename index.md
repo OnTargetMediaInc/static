@@ -41,4 +41,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - [Las Vegas Injury Lawyers](https://lernerandrowe.com/las-vegas/)
 - [Chicago Injury Lawyers](https://lernerandrowe.com/chicago/)
 - [Nashville Injury Lawyers](https://lernerandrowe.com/nashville/)
-- [Phoenix DUI Lawyer](https://lernerandrowelawgroup.com/)
+- [Phoenix DUI Lawyer](https://lernerandrowelawgroup.com/practice/criminal-defense/dui-attorneys/)
+- [Phoenix Bankruptcy Lawyer](https://lernerandrowelawgroup.com/practice/bankruptcy-debt-relief-attorney/)
